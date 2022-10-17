@@ -1,4 +1,4 @@
-baseURL = 'https://mokevelyn.github.io'
+baseURL = https://mokevelyn.github.io
 languageCode = 'zh-en'
 title = 'kunyang.site'
 theme = "hugo-clarity"

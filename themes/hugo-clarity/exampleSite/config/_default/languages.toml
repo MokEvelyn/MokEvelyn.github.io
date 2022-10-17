@@ -1,0 +1,10 @@
+
+[en]
+  title = "kunyang.site"
+  LanguageName = "English"
+  weight = 1
+
+[zh]
+  title = "kunyang.site" # just for the sake of showing this is possible
+  LanguageName = "Chinese"
+  weight = 2

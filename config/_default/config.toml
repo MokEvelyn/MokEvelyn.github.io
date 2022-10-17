@@ -1,0 +1,27 @@
+baseurl = "https://example.com/"  # Include trailing slash
+
+title = "kunyang.site"  # Edit directly from config/_default/languages.toml # alternatively, uncomment this and remove `title` entry from the aforemention file.
+
+copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
+
+paginate = 10
+
+theme = "hugo-clarity"
+
+disqusShortname = ""
+
+enableEmoji = true
+
+usePageBundles = true
+
+DefaultContentLanguage = "zh"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+

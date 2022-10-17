@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenSource on kunyang.site</title>
-    <link>https://example.com/categories/opensource/</link>
+    <link>https://mokevelyn.github.io/categories/opensource/</link>
     <description>Recent content in OpenSource on kunyang.site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mokevelyn.github.io/categories/opensource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用锁屏启动自动完成粤省事场所码打卡</title>
-      <link>https://example.com/daka/</link>
+      <link>https://mokevelyn.github.io/daka/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/daka/</guid>
+      <guid>https://mokevelyn.github.io/daka/</guid>
       <description>
         
           
@@ -27,10 +27,10 @@
     
     <item>
       <title>利用Docker搭建青龙面板自动领取京豆</title>
-      <link>https://example.com/qljd/</link>
+      <link>https://mokevelyn.github.io/qljd/</link>
       <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/qljd/</guid>
+      <guid>https://mokevelyn.github.io/qljd/</guid>
       <description>
         
           
@@ -44,10 +44,10 @@
     
     <item>
       <title>Linux下配置Clash科学上网、开机自启</title>
-      <link>https://example.com/clash/</link>
+      <link>https://mokevelyn.github.io/clash/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/clash/</guid>
+      <guid>https://mokevelyn.github.io/clash/</guid>
       <description>
         
           

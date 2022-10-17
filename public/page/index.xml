@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on kunyang.site</title>
-    <link>https://example.com/page/</link>
+    <link>https://mokevelyn.github.io/page/</link>
     <description>Recent content in Pages on kunyang.site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-en</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mokevelyn.github.io/page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

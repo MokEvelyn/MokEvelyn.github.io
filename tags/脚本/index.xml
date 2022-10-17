@@ -1,3 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>脚本 on kunyang.site</title><link>https://example.com/tags/%E8%84%9A%E6%9C%AC/</link><description>Recent content in 脚本 on kunyang.site</description><generator>Hugo -- gohugo.io</generator><language>zh-en</language><copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml"/><item><title>利用Docker搭建青龙面板自动领取京豆</title><link>https://example.com/qljd/</link><pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate><guid>https://example.com/qljd/</guid><description>
-&lt;p>青龙面板是一个脚本的管理系统，能够自动、定时执行脚本，对于一些需要自动化、定时完成的工作，使用青龙面板可以极大提高效率、节省人力。&lt;/p>
-&lt;p>使用青龙面板挂京东活动，其实就是从开源的库中拉取并自动执行各种活动脚本，自动完成对应活动任务、领取京豆奖励。&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>脚本 on kunyang.site</title>
+    <link>https://mokevelyn.github.io/tags/%E8%84%9A%E6%9C%AC/</link>
+    <description>Recent content in 脚本 on kunyang.site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mokevelyn.github.io/tags/%E8%84%9A%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用Docker搭建青龙面板自动领取京豆</title>
+      <link>https://mokevelyn.github.io/qljd/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokevelyn.github.io/qljd/</guid>
+      <description>
+        
+          
+            &lt;p&gt;青龙面板是一个脚本的管理系统，能够自动、定时执行脚本，对于一些需要自动化、定时完成的工作，使用青龙面板可以极大提高效率、节省人力。&lt;/p&gt;
+&lt;p&gt;使用青龙面板挂京东活动，其实就是从开源的库中拉取并自动执行各种活动脚本，自动完成对应活动任务、领取京豆奖励。&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

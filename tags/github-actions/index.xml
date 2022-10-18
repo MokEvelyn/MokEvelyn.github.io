@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github Actions on kunyang.site</title>
+    <link>https://mokevelyn.github.io/tags/github-actions/</link>
+    <description>Recent content in Github Actions on kunyang.site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-en</language>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://mokevelyn.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用Github Actions实现Hugo博客在Github Pages自动化部署</title>
+      <link>https://mokevelyn.github.io/hugo/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mokevelyn.github.io/hugo/</guid>
+      <description>
+        
+          
+            &lt;p&gt;Github Actions是Github提供的持续集成服务，帮助自动化实现抓取代码、运行测试、登录远程服务器，发布到第三方服务等&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

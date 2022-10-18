@@ -33,7 +33,7 @@ Github Actions是Github提供的持续集成服务，帮助自动化实现抓取
 
 # 配置步骤
 
-#### 创建Github Pages仓库
+### 创建Github Pages仓库
 
 1.新建Github仓库，仓库名命名为<username>.github.io，其中<username>与Github用户名需相同
 
@@ -49,26 +49,26 @@ git init
 
 3.配置Git仓库
 
-```
+```sh
 # 配置下当前仓库的 Git 用户信息
-git config user.name "mokevelyn"
-git config user.email "mokevelyn@gmail.com"
+~/blog $ git config user.name "mokevelyn"
+~/blog $ git config user.email "mokevelyn@gmail.com"
 # user.name与 GitHub 上保持一致
 # user.email必须与 GitHub 上的邮箱一致：
 # https://github.com/settings/emails
 
 # 添加 GitHub 上的远程仓库（需要先去 GitHub 上新建一个仓库）
 # username处填入自己的Github用户名
-git remote add origin git@github.com:username/username.github.io.git
+~/blog $ git remote add origin git@github.com:username/username.github.io.git
 
 # 添加所有改动
-git add -A
+~/blog $ git add -A
 
 # 提交改动
-git commit -m "init"
+~/blog $ git commit -m "init"
 
 # 首次上传到远程仓库
-git push
+~/blog $ git push
 ```
 
 
@@ -81,7 +81,9 @@ git push
 
 
 
-#### workflow文件准备
+
+
+### workflow文件准备
 
 1.打开本地博客根目录，在本地博客根目录下建立`.github/workflows`目录，并在该目录下创建一个yml文件，命名为`gh-pages.yml`
 
@@ -190,7 +192,7 @@ cat ~/.ssh/deploy_key
 
 5.推送改动到Github
 
-```
+```bash
 git add -A
 git commit -m "refactor: use hugo-deploy action"
 git push

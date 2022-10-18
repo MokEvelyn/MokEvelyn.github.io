@@ -81,6 +81,8 @@ git init
 
 
 
+
+
 #### workflow文件准备
 
 1.打开本地博客根目录，在本地博客根目录下建立`.github/workflows`目录，并在该目录下创建一个yml文件，命名为`gh-pages.yml`

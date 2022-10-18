@@ -49,26 +49,26 @@ git init
 
 3.配置Git仓库
 
-```sh
+```
 # 配置下当前仓库的 Git 用户信息
-~/blog $ git config user.name "mokevelyn"
-~/blog $ git config user.email "mokevelyn@gmail.com"
+git config user.name "mokevelyn"
+git config user.email "mokevelyn@gmail.com"
 # user.name与 GitHub 上保持一致
 # user.email必须与 GitHub 上的邮箱一致：
 # https://github.com/settings/emails
 
 # 添加 GitHub 上的远程仓库（需要先去 GitHub 上新建一个仓库）
 # username处填入自己的Github用户名
-~/blog $ git remote add origin git@github.com:username/username.github.io.git
+git remote add origin git@github.com:username/username.github.io.git
 
 # 添加所有改动
-~/blog $ git add -A
+git add -A
 
 # 提交改动
-~/blog $ git commit -m "init"
+git commit -m "init"
 
 # 首次上传到远程仓库
-~/blog $ git push
+git push
 ```
 
 
@@ -78,8 +78,6 @@ git init
 在下图搜索框中搜索gh-pages，并点击<font color=#2596be>`creat gh-pages from main`</font>，创建分支
 
 <img src="image-20221018204921588.png" alt="image-20221018204921588" style="zoom:50%;" />
-
-
 
 
 
@@ -192,7 +190,7 @@ cat ~/.ssh/deploy_key
 
 5.推送改动到Github
 
-```bash
+```
 git add -A
 git commit -m "refactor: use hugo-deploy action"
 git push

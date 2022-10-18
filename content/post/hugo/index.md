@@ -75,12 +75,6 @@ git init
 
 4.在Github Pages仓库新建gh-pages分支
 
-在下图搜索框中搜索gh-pages，并点击<font color=#2596be>`creat gh-pages from main`</font>，创建分支
-
-<img src="image-20221018204921588.png" alt="image-20221018204921588" style="zoom:50%;" />
-
-
-
 
 
 ### workflow文件准备

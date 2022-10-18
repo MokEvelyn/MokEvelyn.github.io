@@ -37,7 +37,7 @@ url: "daka"
 
 2.打开已经注册的公众号后台（公众号注册和绑定可以在网上看一下教程），并点击<font color=#2596be>首页—新的创作—图文消息</font>
 
-<img src="image-20221015152819425.png" alt="image-20221015152819425" style="zoom:67%;" />
+![image-20221015152819425](/Users/mokunyang/Desktop/daka/image-20221015152819425.png)
 
 
 
@@ -49,33 +49,33 @@ url: "daka"
 
 4.选择小程序页面内输入<font color=#2596be>粤省事</font>，点击进入下一步
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015153713625.png" alt="image-20221015153713625" style="zoom:67%;" />
+![image-20221015153713625](/Users/mokunyang/Desktop/daka/image-20221015153713625.png)
 
 
 
 5.在填写详细信息页面中，将鼠标光标置于小程序路径框下方的<font color=#2596be>获取更多页面途径</font>位置，并在右侧弹出框中输入<font color=#2596be>需要进行场所码打卡的微信号</font>后，点击<font color=#2596be>开启</font>按钮
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015153844834.png" alt="image-20221015153844834" style="zoom:67%;" />
+![image-20221015153844834](/Users/mokunyang/Desktop/daka/image-20221015153844834.png)
 
 
 
 6.打开微信扫一扫，扫描第一步中拍下的需要打卡的场所码，点击右上角<font color=#2596be>三个点</font>，在下方弹出框中点击<font color=#2596be>复制页面路径</font>
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015154459615.png" alt="image-20221015154459615" style="zoom:33%;" />
+![image-20221015154601126](/Users/mokunyang/Desktop/daka/image-20221015154601126.png)
 
 
 
 7.点击下方弹出框中<font color=#2596be>粤省事</font>，点击<font color=#2596be>更多资料</font>，复制<font color=#2596be>账号原始ID</font>
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015154944528.png" alt="image-20221015154944528" style="zoom:33%;" />
+![image-20221015154944528](/Users/mokunyang/Desktop/daka/image-20221015154944528.png)
 
 
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015155101079.png" alt="image-20221015155101079" style="zoom:33%;" />
+![image-20221015155101079](/Users/mokunyang/Desktop/daka/image-20221015155101079.png)
 
 
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015155150912.png" alt="image-20221015155150912" style="zoom:33%;" />
+![image-20221015155150912](/Users/mokunyang/Desktop/daka/image-20221015155150912.png)
 
 
 
@@ -89,7 +89,7 @@ url: "daka"
 
 1.在App内<font color=#2596be>锁屏页面</font>，点击待设置项右侧<font color=#2596be>三个点</font>，点击弹出框中<font color=#2596be>编辑</font>
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015155649775.png" alt="image-20221015155649775" style="zoom:33%;" />
+![image-20221015155649775](/Users/mokunyang/Desktop/daka/image-20221015155649775.png)
 
 
 
@@ -97,7 +97,7 @@ url: "daka"
 
 <font color=#2596be>`weixin://?userName=小程序账号原始ID&path=页面路路径`</font>
 
-<img src="/Users/mokunyang/Desktop/daka/image-20221015160005159.png" alt="image-20221015160005159" style="zoom:33%;" />
+![image-20221015160005159](/Users/mokunyang/Desktop/daka/image-20221015160005159.png)
 
 
 
